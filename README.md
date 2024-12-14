@@ -74,6 +74,8 @@ node app.js
 | GET    | `/api/posts`              | Retrieve all posts                  | Yes       |
 | PUT    | `/api/posts/:id`          | Update an existing post             | Yes       |
 | DELETE | `/api/posts/:id`          | Delete a post                       | Yes       |
+| PUT    | `/api/posts/:id/like`     | Like a post                         | Yes       | 
+| POST   | `/api/posts/:id/comment`  | Comment on a post                   | Yes       |
 
 
 ### **Multimedia**
