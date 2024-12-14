@@ -98,4 +98,3 @@ node app.js
 | POST   | `/api/posts/geolocation`  | Create a post with geolocation and device details | Yes |
 
 
-
